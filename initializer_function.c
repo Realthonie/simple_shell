@@ -26,4 +26,3 @@ void initializer(char **current_command, int type_command)
 	else
 		execute_command(current_command, type_command);
 }
-clear this
