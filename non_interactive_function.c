@@ -37,4 +37,3 @@ void non_interactive(void)
 		exit(status);
 	}
 }
-clear this
